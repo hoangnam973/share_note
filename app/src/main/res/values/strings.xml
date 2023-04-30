@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Share Note</string>
+
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register_account">Register account</string>
+    <string name="msg_login_fail">Username or password is incorrect!</string>
+    <string name="msg_login_success">Login is success!</string>
+    <string name="your_note">Your note</string>
+    <string name="create_note">Create note</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="created_by">Created by:</string>
+    <string name="change_list">Change list</string>
+    <string name="my_notes">My notes</string>
+    <string name="all_notes">All notes</string>
+    <string name="register">Register</string>
+    <string name="msg_register_success">Register account is success!</string>
+    <string name="msg_username_empty">Username cannot be blank!</string>
+    <string name="msg_password_empty">Password cannot be blank!</string>
+    <string name="msg_note_empty">Note cannot be blank!</string>
+    <string name="msg_create_note_success">Created note is success!</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "703540534813",
+    "firebase_url": "https://test-note-c639b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "test-note-c639b",
+    "storage_bucket": "test-note-c639b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703540534813:android:a12dae26654d1fc4dcf0f4",
+        "android_client_info": {
+          "package_name": "com.hoangnam.sharenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703540534813-9lb4142l9n9bje253dcnepuv0gjndrt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8VheSl4I7AgT6xYwji1czm207Wr0DA8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703540534813-9lb4142l9n9bje253dcnepuv0gjndrt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
